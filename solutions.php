@@ -25,7 +25,7 @@ include_once 'hd.php';
                 <p>To customers, KlipsPay offers a swift payment process option, no need going through long steps to pay for your everyday essentials. You can do this now in just two steps!
 </p>
 
-     <p>To Providers, KlipsPay offers not just the freedom to move your money with our USSD code, but it offers strong financial advisory and support systems through our partners, aimed at building you towards financial freedom.</p>
+     
                   <!--<ul class="cont-4">
                       <li><span class="fa fa-check"></span>Website Designing and Development</li>
                       <li><span class="fa fa-check"></span>Android and iOs Apps Development </li>
@@ -50,10 +50,11 @@ include_once 'hd.php';
               <div class="cwp4-text col-lg-6 pl-lg-5 mt-lg-0 mt-5">
                       <h3>Trade Sharp</h3>
                  
-                <p>To customers, KlipsPay offers a swift payment process option, no need going through long steps to pay for your everyday essentials. You can do this now in just two steps!
-</p>
+                
 
-     <p>To Providers, KlipsPay offers not just the freedom to move your money with our USSD code, but it offers strong financial advisory and support systems through our partners, aimed at building you towards financial freedom.</p>
+     <p>To Merchants, KlipsPay doesn't just offer the freedom to move your 
+      money with our USSD code and advanced web platform, we seek to offer strong financial advisory and support systems through our partners,
+       aimed at building you towards financial freedom.</p>
                   <!--<ul class="cont-4">
                       <li><span class="fa fa-check"></span>Website Designing and Development</li>
                       <li><span class="fa fa-check"></span>Android and iOs Apps Development </li>
